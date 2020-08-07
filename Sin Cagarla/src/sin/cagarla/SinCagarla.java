@@ -19,6 +19,16 @@ public class SinCagarla {
         System.out.println("Hello");
         for (int i = 0; i < 10; i++) {
             
+            /*
+            
+            
+            
+            
+            
+            
+            */
+            
+            
         }
         //xx
         for (int i = 0; i < 10; i++) {
